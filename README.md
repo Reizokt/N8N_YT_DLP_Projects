@@ -173,6 +173,7 @@ Create a `.env` file locally:
 
 ```env
 GEMINI_API_KEY=your_api_key_here
+or you can manually just put your GEMINI_API_KEY on line 65 in side YT_Clip_Automation (not recomended)
 ```
 
 Make sure `.env` is included in `.gitignore`:
