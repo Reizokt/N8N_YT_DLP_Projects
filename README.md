@@ -219,19 +219,6 @@ Instead of manually:
 
 the system automates these steps through an AI-assisted workflow.
 
-## Security
-
-Do not commit any of the following to the repository:
-
-* Gemini API keys
-* OAuth credentials
-* Access tokens
-* `.env` files
-* Private authentication credentials
-* Personal API credentials
-
-Use environment variables or another secure credential-management mechanism instead.
-
 ## Disclaimer
 
 This project is intended for **educational and automation purposes**.
@@ -251,8 +238,3 @@ Potential improvements include:
 * Multiple clip generation from a single video
 * Cloud-based video processing
 * Automated publishing to social media platforms
-* Job queues for processing multiple videos
-
-## License
-
-Add the appropriate license for this project if you intend to make the source code publicly reusable.
